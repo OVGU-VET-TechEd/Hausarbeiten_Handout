@@ -156,6 +156,8 @@ Magdeburg, [Datum]
 
 *Abb. 4: Muster eines Titelblatts für eine wissenschaftliche Abschlussarbeit (eigene Darstellung)*
 
+![Titelblatt](https://https://github.com/OVGU-VET-TechEd/Hausarbeiten_Handout/blob/main/media/Vorlage_Titelblatt.png)
+
 ## Die Gliederung oder das Inhaltsverzeichnis
 
 ### Inhaltsverzeichnis
